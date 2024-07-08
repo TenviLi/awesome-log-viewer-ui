@@ -5,7 +5,7 @@ A collection for Log Viewer in browser.
 
 ### ANSI
 
-#### React Component
+#### React
 
 - <https://github.com/melloware/react-logviewer>
 - <https://github.com/evergreen-ci/lobster>
@@ -18,7 +18,7 @@ A collection for Log Viewer in browser.
 - <https://github.com/alifaizankazmi/react-logviewer>
 - <https://www.npmjs.com/package/react-terminal-viewer>
 
-#### Vue Component
+#### Vue
 
 - <https://github.com/FEMessage/log-viewer/tree/dev>
 - <https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/ci/job_log_viewer>
@@ -36,14 +36,18 @@ A collection for Log Viewer in browser.
 
 ## `console.log`
 
-### React Component
+### React
 
 - <https://github.com/samdenty/console-feed>
 - <https://github.com/liriliri/chii>
 
-### Vue Component
+### Vue
 
 - <https://github.com/tachibana-shin/vue-console-feed>
+
+### Svelte
+
+- <https://github.com/Tencent/vConsole>
 
 ## Others
 
