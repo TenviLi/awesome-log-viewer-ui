@@ -17,6 +17,7 @@ A collection for Log Viewer in browser.
 - <https://github.com/marcbperez/react-logviewer>
 - <https://github.com/alifaizankazmi/react-logviewer>
 - <https://www.npmjs.com/package/react-terminal-viewer>
+- <https://github.com/harness/gitness/blob/main/web/src/components/LogViewer/LogViewer.tsx>
 
 #### Vue
 
@@ -29,6 +30,10 @@ A collection for Log Viewer in browser.
 - <https://github.com/rburns/ansi-to-html>
 - <https://github.com/drudru/ansi_up>
 - <https://github.com/xpl/ansicolor>
+
+#### Golang
+
+- <https://github.com/buildkite/terminal-to-html>
 
 ### JSON
 
