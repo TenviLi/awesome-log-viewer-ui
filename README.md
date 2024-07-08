@@ -16,10 +16,13 @@ A collection for Log Viewer in browser.
 - <https://github.com/RaoHai/react-ansi>
 - <https://github.com/marcbperez/react-logviewer>
 - <https://github.com/alifaizankazmi/react-logviewer>
+- <https://www.npmjs.com/package/react-terminal-viewer>
 
 #### Vue Component
 
 - <https://github.com/FEMessage/log-viewer/tree/dev>
+- <https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/ci/job_log_viewer>
+- <https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/assets/javascripts/ci/job_details>
 
 #### Packages
 
